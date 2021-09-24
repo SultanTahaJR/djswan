@@ -1,0 +1,27 @@
+{
+	"name": "alel",
+	"version": "1.0.0",
+	"description": "Bot khusus mahasiswa TI-19 STMIK Komputama Majenang",
+	"main": "main.js",
+	"scripts": {
+		"start": "node main.js",
+		"test": "test"
+	},
+	"type": "module",
+	"keywords": [
+		"college",
+		"random",
+		"bot",
+		"stmikkomputama",
+		"group",
+		"majenang"
+	],
+	"author": "Awal Ariansyah",
+	"license": "MIT",
+	"dependencies": {
+		"cron": "^1.8.2",
+		"discord-user-bots": "^1.2.5",
+		"discord.js": "^12.3.1",
+		"node-fetch": "^3.0.0"
+	}
+}
