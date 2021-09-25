@@ -1,4 +1,4 @@
 export default
 {
-"token": "NDUyOTA1MzE0MDQ4ODAyODI2.YU7xAg.RjaVVTnBe_LSA4RK976kUooPPYo"
+"token": "NDUyOTA1MzE0MDQ4ODAyODI2.YU79Hg.MQ3381Sxx6y_EcfNWhjtRjIyjGc"
 }
